@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 SERVER_ADDRESS=""
 DEVICE_KEY=""
 BAD_DEVICE_KEY=""
